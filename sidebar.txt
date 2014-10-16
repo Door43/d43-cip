@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cip:home|Door43 (cip)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cip|d43-cip repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cip/archive/master.zip|d43-cip.zip]]
+
+**Recent Changes**
+{{changes>ns = cip}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cip|Ethnologue data]]
+
